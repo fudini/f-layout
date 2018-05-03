@@ -1,0 +1,11 @@
+[package]
+name = "f-layout"
+version = "0.1.0"
+authors = ["Daniel Fudala"]
+
+[dependencies]
+serde = "1.0"
+serde_derive = "*"
+
+[dependencies.euclid]
+version = "0.16"
